@@ -1,0 +1,249 @@
+2026-06-12 11:40:43  INFO      =======================================================
+2026-06-12 11:40:43  INFO        GoDigit Bulk COI Downloader  [LOCAL MODE]
+2026-06-12 11:40:43  INFO      =======================================================
+2026-06-12 11:40:43  INFO      Checking token validity...
+2026-06-12 11:40:43  INFO      Token invalid or expired. Attempting refresh...
+2026-06-12 11:40:43  INFO      =======================================================
+2026-06-12 11:40:43  INFO        Token refresh failed — cookies have expired.
+2026-06-12 11:40:43  INFO        Automatically starting OTP login...
+2026-06-12 11:40:43  INFO      =======================================================
+2026-06-12 11:40:43  ERROR     =======================================================
+2026-06-12 11:40:43  ERROR       ERROR: 'mobile' not set correctly in CONFIG.
+2026-06-12 11:40:43  ERROR       Open godigit_coi.py and set your 10-digit
+2026-06-12 11:40:43  ERROR       registered mobile number in the CONFIG section.
+2026-06-12 11:40:43  ERROR     =======================================================
+2026-06-12 11:41:10  INFO      =======================================================
+2026-06-12 11:41:10  INFO        GoDigit Bulk COI Downloader  [LOCAL MODE]
+2026-06-12 11:41:10  INFO      =======================================================
+2026-06-12 11:41:10  INFO      Checking token validity...
+2026-06-12 11:41:10  INFO      Token invalid or expired. Attempting refresh...
+2026-06-12 11:41:10  INFO      =======================================================
+2026-06-12 11:41:10  INFO        Token refresh failed — cookies have expired.
+2026-06-12 11:41:10  INFO        Automatically starting OTP login...
+2026-06-12 11:41:10  INFO      =======================================================
+2026-06-12 11:41:10  INFO      =======================================================
+2026-06-12 11:41:10  INFO        OTP Login Flow — Starting...
+2026-06-12 11:41:10  INFO      =======================================================
+2026-06-12 11:41:10  INFO      [Login] Stage 1/5 — Fetching Keycloak login page...
+2026-06-12 11:41:10  INFO      [Login] Stage 2/5 — Submitting mobile number, triggering OTP...
+2026-06-12 11:51:56  INFO      Login cancelled by user (Ctrl+C). Exiting.
+2026-06-12 11:51:58  INFO      =======================================================
+2026-06-12 11:51:58  INFO        GoDigit Bulk COI Downloader  [LOCAL MODE]
+2026-06-12 11:51:58  INFO      =======================================================
+2026-06-12 11:51:58  INFO      Checking token validity...
+2026-06-12 11:51:58  INFO      Token invalid or expired. Attempting refresh...
+2026-06-12 11:51:58  INFO      =======================================================
+2026-06-12 11:51:58  INFO        Token refresh failed — cookies have expired.
+2026-06-12 11:51:58  INFO        Automatically starting OTP login...
+2026-06-12 11:51:58  INFO      =======================================================
+2026-06-12 11:51:58  INFO      =======================================================
+2026-06-12 11:51:58  INFO        OTP Login Flow — Starting...
+2026-06-12 11:51:58  INFO      =======================================================
+2026-06-12 11:51:58  INFO      Fetching login page...
+2026-06-12 11:51:58  INFO      Submitting mobile number. OTP will be sent to ...4081...
+2026-06-12 11:52:07  INFO      =======================================================
+2026-06-12 11:52:07  INFO        GoDigit Bulk COI Downloader  [LOCAL MODE]
+2026-06-12 11:52:07  INFO      =======================================================
+2026-06-12 11:52:07  INFO      Checking token validity...
+2026-06-12 11:52:07  INFO      Token invalid or expired. Attempting refresh...
+2026-06-12 11:52:07  INFO      =======================================================
+2026-06-12 11:52:07  INFO        Token refresh failed — cookies have expired.
+2026-06-12 11:52:07  INFO        Automatically starting OTP login...
+2026-06-12 11:52:07  INFO      =======================================================
+2026-06-12 11:52:07  INFO      =======================================================
+2026-06-12 11:52:07  INFO        OTP Login Flow — Starting...
+2026-06-12 11:52:07  INFO      =======================================================
+2026-06-12 11:52:07  INFO      Fetching login page...
+2026-06-12 11:52:08  INFO      Submitting mobile number. OTP will be sent to ...4081...
+2026-06-12 11:54:26  INFO      =======================================================
+2026-06-12 11:54:26  INFO        GoDigit Bulk COI Downloader  [LOCAL MODE]
+2026-06-12 11:54:26  INFO      =======================================================
+2026-06-12 11:54:26  INFO      Checking token validity...
+2026-06-12 11:54:26  INFO      Token invalid or expired. Attempting refresh...
+2026-06-12 11:54:26  INFO      =======================================================
+2026-06-12 11:54:26  INFO        Token refresh failed — cookies have expired.
+2026-06-12 11:54:26  INFO        Automatically starting OTP login...
+2026-06-12 11:54:26  INFO      =======================================================
+2026-06-12 11:54:26  INFO      =======================================================
+2026-06-12 11:54:26  INFO        OTP Login Flow — Starting...
+2026-06-12 11:54:26  INFO      =======================================================
+2026-06-12 11:54:26  INFO      Fetching login page...
+2026-06-12 11:54:27  INFO      Submitting mobile number. OTP will be sent to ...4081...
+2026-06-12 11:56:47  INFO      =======================================================
+2026-06-12 11:56:47  INFO        GoDigit Bulk COI Downloader  [LOCAL MODE]
+2026-06-12 11:56:47  INFO      =======================================================
+2026-06-12 11:56:47  INFO      Checking token validity...
+2026-06-12 11:56:47  INFO      Token invalid or expired. Attempting refresh...
+2026-06-12 11:56:47  INFO      =======================================================
+2026-06-12 11:56:47  INFO        Token refresh failed - cookies have expired.
+2026-06-12 11:56:47  INFO        Automatically starting OTP login...
+2026-06-12 11:56:47  INFO      =======================================================
+2026-06-12 11:56:47  ERROR     =======================================================
+2026-06-12 11:56:47  ERROR       ERROR: CONFIG incomplete. Fix these:
+2026-06-12 11:56:47  ERROR         - 'username' not set in CONFIG - enter your GoDigit login ID (e.g. 96246062)
+2026-06-12 11:56:47  ERROR         - 'mobile' not set correctly in CONFIG - enter your 10-digit registered mobile number
+2026-06-12 11:56:47  ERROR       Open godigit_coi.py and fill in the CONFIG section.
+2026-06-12 11:56:47  ERROR     =======================================================
+2026-06-12 12:06:23  INFO      =======================================================
+2026-06-12 12:06:23  INFO        GoDigit Bulk COI Downloader  [LOCAL MODE]
+2026-06-12 12:06:23  INFO      =======================================================
+2026-06-12 12:06:23  INFO      Checking token validity...
+2026-06-12 12:06:23  INFO      Token invalid or expired. Attempting refresh...
+2026-06-12 12:06:23  INFO      =======================================================
+2026-06-12 12:06:23  INFO        Token refresh failed - cookies have expired.
+2026-06-12 12:06:23  INFO        Automatically starting OTP login...
+2026-06-12 12:06:23  INFO      =======================================================
+2026-06-12 12:06:23  INFO      =======================================================
+2026-06-12 12:06:23  INFO        OTP Login Flow - Starting...
+2026-06-12 12:06:23  INFO      =======================================================
+2026-06-12 12:06:23  INFO      [Login] Stage 1/5 - Fetching Keycloak login page...
+2026-06-12 12:06:23  INFO      [DEBUG] First login page saved to: D:\Digit COI downloader\debug_login_page.html
+2026-06-12 12:06:23  INFO      [DEBUG] Forms found on login page: ['otp-form', 'kc-select-try-another-way-form']
+2026-06-12 12:06:23  INFO      [DEBUG] Input fields: [('phone', None, 'phone'), (None, 'submit', 'send-otp'), ('first-form', 'hidden', 'first-form'), ('otp', None, 'code'), (None, 'submit', 'otp-submit'), ('tryAnotherWay', 'hidden', None)]
+2026-06-12 12:06:23  INFO      [DEBUG] Selected form id: otp-form
+2026-06-12 12:06:23  INFO      [DEBUG] Form action URL: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=v6PG5WZLQK-Qoby3Pw8jhrVon-DISVHh-HOwmTWOyVU&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=byanRd9DrFw
+2026-06-12 12:06:23  INFO      [DEBUG] Hidden fields: {'first-form': 'first-form'}
+2026-06-12 12:06:23  INFO      [DEBUG] Final URL after redirects: https://accounts.godigit.com/auth/realms/ABS-21/protocol/openid-connect/auth?client_id=DigitCorporate&redirect_uri=https%3A%2F%2Fcorporate.godigit.com%2FDigitCorporate%2F%23%2F&response_type=code&scope=openid+company_code+userid+Portal_Type&code_challenge=6tTc2Ur577LDWUxnR0ypnhsYtbS3n4JGGt_B4VhHmbk&code_challenge_method=S256&nonce=45586200-3a37-4b56-982b-2272485a1337&state=UQ4P9KiBSytyfCpzz7LIZA
+2026-06-12 12:06:23  INFO      [Login] Stage 1/5 - [OK] Login page loaded.
+2026-06-12 12:06:23  INFO      [Login] Stage 2/5 - Submitting username '96246062' to trigger OTP...
+2026-06-12 12:06:23  INFO      [DEBUG] POSTing to: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=v6PG5WZLQK-Qoby3Pw8jhrVon-DISVHh-HOwmTWOyVU&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=byanRd9DrFw
+2026-06-12 12:06:23  INFO      [DEBUG] POST payload fields: ['first-form', 'username']
+2026-06-12 12:06:23  INFO      [DEBUG] username value: 96246062
+2026-06-12 12:06:23  INFO      [DEBUG] POST response status: 200
+2026-06-12 12:06:23  INFO      [DEBUG] POST response URL: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=v6PG5WZLQK-Qoby3Pw8jhrVon-DISVHh-HOwmTWOyVU&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=byanRd9DrFw
+2026-06-12 12:06:23  INFO      [DEBUG] Response page saved to: D:\Digit COI downloader\debug_otp_page.html
+2026-06-12 12:06:23  INFO      [DEBUG] Forms on response page: ['otp-form', 'kc-select-try-another-way-form']
+2026-06-12 12:06:23  INFO      [DEBUG] OTP form action: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=ZSb_k-_XcVw0Z30sjvXrTURIlo7AFZqiQbgm22i9pXg&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=byanRd9DrFw
+2026-06-12 12:06:23  INFO      [DEBUG] Phone value from page: xxxxxxxxxx
+2026-06-12 12:06:23  INFO      [Login] Stage 2/5 - [OK] OTP sent to mobile ending in ...xxxx.
+2026-06-12 12:08:57  INFO      Login cancelled by user (Ctrl+C). Exiting.
+2026-06-12 12:13:11  INFO      =======================================================
+2026-06-12 12:13:11  INFO        GoDigit Bulk COI Downloader  [LOCAL MODE]
+2026-06-12 12:13:11  INFO      =======================================================
+2026-06-12 12:13:11  INFO      Checking token validity...
+2026-06-12 12:13:11  INFO      Token invalid or expired. Attempting refresh...
+2026-06-12 12:13:11  INFO      =======================================================
+2026-06-12 12:13:11  INFO        Token refresh failed - cookies have expired.
+2026-06-12 12:13:11  INFO        Automatically starting OTP login...
+2026-06-12 12:13:11  INFO      =======================================================
+2026-06-12 12:13:11  ERROR     =======================================================
+2026-06-12 12:13:11  ERROR       ERROR: CONFIG incomplete. Fix these:
+2026-06-12 12:13:11  ERROR         - 'username' not set in CONFIG - enter your GoDigit login ID (e.g. 96246062)
+2026-06-12 12:13:11  ERROR         - 'mobile' not set correctly in CONFIG - enter your 10-digit registered mobile number
+2026-06-12 12:13:11  ERROR       Open godigit_coi.py and fill in the CONFIG section.
+2026-06-12 12:13:11  ERROR     =======================================================
+2026-06-12 12:14:26  INFO      =======================================================
+2026-06-12 12:14:26  INFO        GoDigit Bulk COI Downloader  [LOCAL MODE]
+2026-06-12 12:14:26  INFO      =======================================================
+2026-06-12 12:14:26  INFO      Checking token validity...
+2026-06-12 12:14:26  INFO      Token invalid or expired. Attempting refresh...
+2026-06-12 12:14:26  INFO      =======================================================
+2026-06-12 12:14:26  INFO        Token refresh failed - cookies have expired.
+2026-06-12 12:14:26  INFO        Automatically starting OTP login...
+2026-06-12 12:14:26  INFO      =======================================================
+2026-06-12 12:14:26  INFO      =======================================================
+2026-06-12 12:14:26  INFO        OTP Login Flow - Starting...
+2026-06-12 12:14:26  INFO      =======================================================
+2026-06-12 12:14:26  INFO      [Login] Stage 1/5 - Fetching Keycloak login page...
+2026-06-12 12:14:26  INFO      [DEBUG] First login page saved to: D:\Digit COI downloader\debug_login_page.html
+2026-06-12 12:14:26  INFO      [DEBUG] Forms found on login page: ['otp-form', 'kc-select-try-another-way-form']
+2026-06-12 12:14:26  INFO      [DEBUG] Input fields: [('phone', None, 'phone'), (None, 'submit', 'send-otp'), ('first-form', 'hidden', 'first-form'), ('otp', None, 'code'), (None, 'submit', 'otp-submit'), ('tryAnotherWay', 'hidden', None)]
+2026-06-12 12:14:26  INFO      [DEBUG] Selected form id: otp-form
+2026-06-12 12:14:26  INFO      [DEBUG] Form action URL: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=78A6i4wWpikoGZk5CrwRYHwqtXTLnuEVOcgWkU_79Rw&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=LzFSWaVyQEE
+2026-06-12 12:14:26  INFO      [DEBUG] Hidden fields: {'first-form': 'first-form'}
+2026-06-12 12:14:26  INFO      [DEBUG] Final URL after redirects: https://accounts.godigit.com/auth/realms/ABS-21/protocol/openid-connect/auth?client_id=DigitCorporate&redirect_uri=https%3A%2F%2Fcorporate.godigit.com%2FDigitCorporate%2F%23%2F&response_type=code&scope=openid+company_code+userid+Portal_Type&code_challenge=krzqax8Jd_lDcuxWwjR52yf1gXM2T0p8Dx3A2Ie-ins&code_challenge_method=S256&nonce=8aa548bb-1e65-4e78-ac23-f356046f00ac&state=TnMi_mr2i8RCmuOleVRBRg
+2026-06-12 12:14:26  INFO      [Login] Stage 1/5 - [OK] Login page loaded.
+2026-06-12 12:14:26  INFO      [Login] Stage 2/5 - Submitting username '96246062' to trigger OTP...
+2026-06-12 12:14:26  INFO      [DEBUG] Step 1 - Triggering OTP. POSTing to: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=78A6i4wWpikoGZk5CrwRYHwqtXTLnuEVOcgWkU_79Rw&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=LzFSWaVyQEE
+2026-06-12 12:14:26  INFO      [DEBUG] Step 1 - Payload fields: ['first-form', 'phone', 'username']
+2026-06-12 12:14:26  INFO      [DEBUG] Step 1 - phone=8976624081  username=96246062
+2026-06-12 12:14:26  INFO      [DEBUG] Step 1 response status: 200
+2026-06-12 12:14:26  INFO      [DEBUG] Step 1 response URL: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=78A6i4wWpikoGZk5CrwRYHwqtXTLnuEVOcgWkU_79Rw&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=LzFSWaVyQEE
+2026-06-12 12:14:26  INFO      [DEBUG] Response page saved to: D:\Digit COI downloader\debug_otp_page.html
+2026-06-12 12:14:26  INFO      [DEBUG] Forms on response page: ['otp-form', 'resend-otp-form', 'kc-select-try-another-way-form']
+2026-06-12 12:14:26  INFO      [DEBUG] OTP button found: id=otp-sent value=OTP Sent disabled=
+2026-06-12 12:14:26  INFO      [DEBUG] Phone from page: 8976624081
+2026-06-12 12:14:26  INFO      [DEBUG] OTP form action: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=ul6CaIHEwYK0gJsdPCtHn8eWtkUUhZdOos4PXXvFLRk&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=LzFSWaVyQEE
+2026-06-12 12:14:26  INFO      [DEBUG] OTP hidden fields: {}
+2026-06-12 12:14:26  INFO      [Login] Stage 2/5 - [OK] OTP sent to mobile ending in ...4081.
+2026-06-12 12:17:01  INFO      Login cancelled by user (Ctrl+C). Exiting.
+2026-06-12 12:17:04  INFO      =======================================================
+2026-06-12 12:17:04  INFO        GoDigit Bulk COI Downloader  [LOCAL MODE]
+2026-06-12 12:17:04  INFO      =======================================================
+2026-06-12 12:17:04  INFO      Checking token validity...
+2026-06-12 12:17:04  INFO      Token invalid or expired. Attempting refresh...
+2026-06-12 12:17:04  INFO      =======================================================
+2026-06-12 12:17:04  INFO        Token refresh failed - cookies have expired.
+2026-06-12 12:17:04  INFO        Automatically starting OTP login...
+2026-06-12 12:17:04  INFO      =======================================================
+2026-06-12 12:17:04  INFO      =======================================================
+2026-06-12 12:17:04  INFO        OTP Login Flow - Starting...
+2026-06-12 12:17:04  INFO      =======================================================
+2026-06-12 12:17:04  INFO      [Login] Stage 1/5 - Fetching Keycloak login page...
+2026-06-12 12:17:05  INFO      [DEBUG] First login page saved to: D:\Digit COI downloader\debug_login_page.html
+2026-06-12 12:17:05  INFO      [DEBUG] Forms found on login page: ['otp-form', 'kc-select-try-another-way-form']
+2026-06-12 12:17:05  INFO      [DEBUG] Input fields: [('phone', None, 'phone'), (None, 'submit', 'send-otp'), ('first-form', 'hidden', 'first-form'), ('otp', None, 'code'), (None, 'submit', 'otp-submit'), ('tryAnotherWay', 'hidden', None)]
+2026-06-12 12:17:05  INFO      [DEBUG] Selected form id: otp-form
+2026-06-12 12:17:05  INFO      [DEBUG] Form action URL: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=DOJTyffe5gGclMLeDmIR-4cHwsQvfYLMO9rXD8j7NdY&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=d0UL2FjD1XA
+2026-06-12 12:17:05  INFO      [DEBUG] Hidden fields: {'first-form': 'first-form'}
+2026-06-12 12:17:05  INFO      [DEBUG] Final URL after redirects: https://accounts.godigit.com/auth/realms/ABS-21/protocol/openid-connect/auth?client_id=DigitCorporate&redirect_uri=https%3A%2F%2Fcorporate.godigit.com%2FDigitCorporate%2F%23%2F&response_type=code&scope=openid+company_code+userid+Portal_Type&code_challenge=1_nTO7n1NNp517uqJseYGWbi_s-tCLIub85iN8pvyos&code_challenge_method=S256&nonce=a35f2ed6-0ff7-4f78-80ab-e62557e9b6c1&state=0wdJ4WRD2pSjWFjHKYIHqQ
+2026-06-12 12:17:05  INFO      [Login] Stage 1/5 - [OK] Login page loaded.
+2026-06-12 12:17:05  INFO      [Login] Stage 2/5 - Submitting username '96246062' to trigger OTP...
+2026-06-12 12:17:05  INFO      [DEBUG] Step 1 - Triggering OTP. POSTing to: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=DOJTyffe5gGclMLeDmIR-4cHwsQvfYLMO9rXD8j7NdY&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=d0UL2FjD1XA
+2026-06-12 12:17:05  INFO      [DEBUG] Step 1 - Payload fields: ['first-form', 'phone', 'username']
+2026-06-12 12:17:05  INFO      [DEBUG] Step 1 - phone=8976624081  username=96246062
+2026-06-12 12:17:05  INFO      [DEBUG] Step 1 response status: 200
+2026-06-12 12:17:05  INFO      [DEBUG] Step 1 response URL: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=DOJTyffe5gGclMLeDmIR-4cHwsQvfYLMO9rXD8j7NdY&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=d0UL2FjD1XA
+2026-06-12 12:17:05  INFO      [DEBUG] Response page saved to: D:\Digit COI downloader\debug_otp_page.html
+2026-06-12 12:17:05  INFO      [DEBUG] Forms on response page: ['otp-form', 'resend-otp-form', 'kc-select-try-another-way-form']
+2026-06-12 12:17:05  INFO      [DEBUG] OTP button found: id=otp-sent value=OTP Sent disabled=
+2026-06-12 12:17:05  INFO      [DEBUG] Phone from page: 8976624081
+2026-06-12 12:17:05  INFO      [DEBUG] OTP form action: https://accounts.godigit.com/auth/realms/ABS-21/login-actions/authenticate?session_code=rz-gCYcYK-jf2KndNyiqEIHCC44XkI3fkfTxQIX6_bg&execution=20e094e2-295a-4f0c-bac5-ff1626baec3e&client_id=DigitCorporate&tab_id=d0UL2FjD1XA
+2026-06-12 12:17:05  INFO      [DEBUG] OTP hidden fields: {}
+2026-06-12 12:17:05  INFO      [Login] Stage 2/5 - [OK] OTP sent to mobile ending in ...4081.
+2026-06-12 12:17:19  INFO      [Login] Stage 4/5 - Submitting OTP to Keycloak...
+2026-06-12 12:17:20  INFO      [Login] Stage 4/5 - [OK] OTP verified. Auth code received.
+2026-06-12 12:17:20  INFO      [Login] Stage 5/5 - Exchanging auth code for tokens...
+2026-06-12 12:17:20  INFO      [Login] Stage 5/5 - [OK] Tokens generated. Expires in 900s.
+2026-06-12 12:17:20  INFO      [Login] [OK] 6/6 session cookies captured.
+2026-06-12 12:17:20  INFO      =======================================================
+2026-06-12 12:17:20  INFO        Login complete. Proceeding to download PDFs...
+2026-06-12 12:17:20  INFO      =======================================================
+2026-06-12 12:17:20  INFO      [Save] [OK] Credentials saved to: D:\Digit COI downloader\token_cache.json
+2026-06-12 12:17:20  INFO      [TokenKeeper] Background thread started.
+2026-06-12 12:17:20  INFO      [TokenKeeper] [OK] Token refreshed. Expires in 900s.
+2026-06-12 12:17:20  INFO      Local token keeper running in background.
+2026-06-12 12:17:21  INFO      Loaded 4 row(s). Workers: 4  Batch: 100
+2026-06-12 12:17:21  INFO      [1/4] Loan: H102813  |  Product: GLTP
+2026-06-12 12:17:21  INFO        [H102813] Fetching policy number...
+2026-06-12 12:17:21  INFO      [2/4] Loan: H102775  |  Product: GLTP
+2026-06-12 12:17:21  INFO      [3/4] Loan: H102772  |  Product: GLTP
+2026-06-12 12:17:21  INFO        [H102775] Fetching policy number...
+2026-06-12 12:17:21  INFO      [4/4] Loan: H101677  |  Product: GLTP
+2026-06-12 12:17:21  INFO        [H102772] Fetching policy number...
+2026-06-12 12:17:21  INFO        [H101677] Fetching policy number...
+2026-06-12 12:17:21  INFO        [H102775] [OK] Policy: L020449850
+2026-06-12 12:17:21  INFO        [H102775] Downloading COI PDF...
+2026-06-12 12:17:21  INFO        [H101677] [OK] Policy: L019165956
+2026-06-12 12:17:21  INFO        [H101677] Downloading COI PDF...
+2026-06-12 12:17:24  INFO        [H102772] [OK] Policy: L020449843
+2026-06-12 12:17:24  INFO        [H102772] Downloading COI PDF...
+2026-06-12 12:17:26  INFO        [H102775] [OK] Saved: COI_H102775_L020449850_GLTP.pdf (452.0 KB)
+2026-06-12 12:17:26  INFO      LOAN=H102775      | POLICY=L020449850     | STATUS=SUCCESS    | MSG=Saved COI_H102775_L020449850_GLTP.pdf (452.0 KB)
+2026-06-12 12:17:26  INFO        Progress: 1/4  | [OK] 1  | [SKIP] 0 skipped  | [FAIL] 0 failed
+2026-06-12 12:17:27  INFO        [H101677] [OK] Saved: COI_H101677_L019165956_GLTP.pdf (480.4 KB)
+2026-06-12 12:17:27  INFO      LOAN=H101677      | POLICY=L019165956     | STATUS=SUCCESS    | MSG=Saved COI_H101677_L019165956_GLTP.pdf (480.4 KB)
+2026-06-12 12:17:27  INFO        Progress: 2/4  | [OK] 2  | [SKIP] 0 skipped  | [FAIL] 0 failed
+2026-06-12 12:17:28  INFO        [H102813] [OK] Policy: L020449842
+2026-06-12 12:17:28  INFO        [H102813] Downloading COI PDF...
+2026-06-12 12:17:32  INFO        [H102813] [OK] Saved: COI_H102813_L020449842_GLTP.pdf (452.0 KB)
+2026-06-12 12:17:32  INFO      LOAN=H102813      | POLICY=L020449842     | STATUS=SUCCESS    | MSG=Saved COI_H102813_L020449842_GLTP.pdf (452.0 KB)
+2026-06-12 12:17:32  INFO        Progress: 3/4  | [OK] 3  | [SKIP] 0 skipped  | [FAIL] 0 failed
+2026-06-12 12:17:35  INFO        [H102772] [OK] Saved: COI_H102772_L020449843_GLTP.pdf (451.9 KB)
+2026-06-12 12:17:35  INFO      LOAN=H102772      | POLICY=L020449843     | STATUS=SUCCESS    | MSG=Saved COI_H102772_L020449843_GLTP.pdf (451.9 KB)
+2026-06-12 12:17:35  INFO        Progress: 4/4  | [OK] 4  | [SKIP] 0 skipped  | [FAIL] 0 failed
+2026-06-12 12:17:35  INFO      =======================================================
+2026-06-12 12:17:35  INFO        Total: 4  |  [OK] Success: 4  |  [SKIP] Skipped: 0  |  [FAIL] Failed: 0
+2026-06-12 12:17:35  INFO      =======================================================
+2026-06-12 12:17:35  INFO      Report saved: D:\Digit COI downloader\coi_downloads\download_report_20260612_121735.xlsx
+2026-06-12 12:17:35  INFO      Token keeper stopped.
